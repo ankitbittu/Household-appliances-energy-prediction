@@ -4,9 +4,12 @@ The data set is at 10 min for about 4.5 months. The house temperature and humidi
 
 Dataset Link
 Appliance Energy Data
+
 Dataset Information
 Number of instances: 19,735
 Number of attributes: 29
+
+
 Attribute Information
 date: year-month-day hour:minute:second
 T1: Temperature in kitchen area, in Celsius
